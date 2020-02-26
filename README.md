@@ -1,2 +1,2 @@
 # Attendace_System
-Attendance System using Raspberry Pi - 3 with python code, HUI created with Tkinter library. 
+Attendance System using Raspberry Pi - 3 with python code, GUI created with Tkinter library. 
